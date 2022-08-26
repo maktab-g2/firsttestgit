@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class fatemeh {
+public class fatemeh {
+    public static void main(String[] args) {
+
+    }
 }
