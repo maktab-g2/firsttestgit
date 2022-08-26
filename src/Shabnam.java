@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Shabnam {
+
+public class Shabnam {
+    public static void main(String[] args) {
+        System.out.println("hello");
+
+    }
 }
